@@ -24,3 +24,9 @@ yum install libXext.i686
 
 yum install libX11*
 
+
+yum install libXpm*
+
+yum install libxcb*
+
+yum install cairo*
